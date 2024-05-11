@@ -3,16 +3,15 @@ body{
 }
 
 h1{
-      
+        
    background-image: url("Imágenes/avion-volando-atardecer.png");
    font-size: 60px;
    font-family: fantasy;
    margin: 30px 0 0 0;
    text-align: center;
    padding-top: 15%;  
-  
+   
 }
-
 
 
 input[type=text], input[type=password]{
@@ -37,7 +36,7 @@ input[type=submit]{
    background-color: #1C94C8;
    color: white;
    padding: 8px 10px;
-   margin: 8px 0px;
+   margin: 20px 0px;
    border: solid;
    cursor: pointer;
    width: 40%;
